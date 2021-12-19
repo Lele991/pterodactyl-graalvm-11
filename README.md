@@ -7,8 +7,7 @@ GraalVM is a high-performance runtime that provides significant improvements in 
 :warning: Support for Java 11 in GraalVM is experimental. Use at your own risk.
 
 ## Docker Image
-
-This image uses lustefaniak/graalvm as a base image.
+> lustefaniak/graalvm:11
 
 ## Versions
 - GraalVM 21.3.0
